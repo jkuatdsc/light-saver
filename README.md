@@ -1,4 +1,4 @@
-# light-saver
+1# light-saver
 ## Introduction
 The project is aimed at reducing energy wastage in the form of lighting. The project will use a camera to detect the presence
  of a person in a room and turn the lights on and off accordingly. The problem arises in shared spaces such as school or offices
