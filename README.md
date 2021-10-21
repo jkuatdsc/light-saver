@@ -1,6 +1,6 @@
 # light-saver
 ## Introduction
-The project is aimed at reducing energy wastage in the form of lighting. The project will use a camera to detect the presence
+The project is aimed at reducing energy wastage in the form of lighting. The project will use a camera to detect the presence of
  of a person in a room and turn the lights on and off accordingly. The problem arises in shared spaces such as school or offices
  whereby the lights may be left switched on thus wasting energy even when not in use. 
 The project will implement this using a raspberry pi camera and a relay to control lights. Object detection of people will be done 
