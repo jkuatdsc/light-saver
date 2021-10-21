@@ -18,4 +18,4 @@ using Google Vision API.
 ## Installation
 
 ## Contributing
-To get started Contributing use the following guide: [Contributing](CONTRIBUTING.md)
+To get started Contributing use the following guide: [Kimutai](CONTRIBUTING.md)
